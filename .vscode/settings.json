@@ -1,0 +1,12 @@
+{
+  "python.pythonPath": "C:\\Users\\José\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "python.linting.pylintArgs": [
+    "--load-plugins=pylint_django"
+  ],
+  "python.autoComplete.extraPaths": [
+    "C:\\Users\\José\\aplicacao\\venv\\Scripts\\python.exe"
+  ],
+  "python.analysis.extraPaths": [
+    "C:\\Users\\José\\aplicacao\\venv\\Scripts\\python.exe"
+  ],
+}
